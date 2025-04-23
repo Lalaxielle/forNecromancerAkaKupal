@@ -1,0 +1,19 @@
+.test {
+
+  body {
+    background-color: black;
+    color: white;
+    font-family: sans-serif;
+    font-size: 28px;
+}
+
+p {
+    color: crimson;
+    text-align: center;
+    font-size: 28px;
+}
+a:hover {
+  text-decoration: underline;
+
+}
+}
